@@ -1,0 +1,4 @@
+configurationset:
+  - configuration:
+      name: curl_import_config
+      authentication_c45f626154: qachasnek::stepzen.io+1000::41fdd9285a9f81f85d0b00e2fc96195ec51db91511f815516a3a9a59a7c0634f
